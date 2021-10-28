@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 from tkinter import *
 import numpy as np
-data = pd.read_csv("D:\REMOTE SENSING AND GIS\RESEARCH WORKS\Research for Programming\Beginner supported by US\project files information\Annual freshwater ms dos.csv")
+data = pd.read_csv("Annual freshwater ms dos.csv")
 
 def chiz():
 
