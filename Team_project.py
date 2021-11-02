@@ -1,3 +1,5 @@
+# Dunyo mamlakatlarida qishloq xo'jaligi uchun foydalinilgan suvlarning yillar bo'yicha sarflanishi
+
 import matplotlib.pyplot as plt # bu python dasturining kutubxonalaridan biri bo'lib grafik shakllarni tasvirlash uchun foydalaniladi
 
 import pandas as pd # pandas - bu ma'lumotlarni tahlil qilish uchun Python dasturlash tili kutubxonasi,
